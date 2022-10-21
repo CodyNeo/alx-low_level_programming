@@ -16,7 +16,7 @@ int main(void)
 	g = n % 10;
 	if (g == 0)
 	{
-		printf("Last digit of %d is %d and is zero\n", n, g);
+		printf("Last digit of %d is %d and is 0\n", n, g);
 	}
 	else if (g > 5)
 	{
