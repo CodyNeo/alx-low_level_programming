@@ -13,7 +13,8 @@ int main(void)
 	{
 		if (loo == 'q' || loo == 'e')
 			continue;
-		printf("%c\n", loo);
+		printf("%c", loo);
 	}
+	printf("\n");
 	return (0);
 }
