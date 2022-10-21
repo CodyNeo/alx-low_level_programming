@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <string.h>
-/**
- * *main - Main function of my project
- * *
- * *
- * *Return: return 0 everytime
- * */
+/*
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 
