@@ -14,6 +14,6 @@ int main(void)
 		printf("%c", loo);
 		loo = loo + 1;
 	}
-	print("\n");
+	printf("\n");
 	return (0);
 }
